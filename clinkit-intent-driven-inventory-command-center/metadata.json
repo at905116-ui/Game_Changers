@@ -1,0 +1,6 @@
+{
+  "name": "Clinkit Intent-Driven Inventory Command Center",
+  "description": "Data hackathon dashboard for Clinkit e-commerce to resolve phantom stock, unlock trapped carts, compute Intent-Aware ROP, and liquidate dead stock.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
